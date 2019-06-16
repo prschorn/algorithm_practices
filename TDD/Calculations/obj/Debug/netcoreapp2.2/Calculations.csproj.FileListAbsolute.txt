@@ -1,0 +1,11 @@
+/home/prschorn/Documents/TDD/Calculations/bin/Debug/netcoreapp2.2/Calculations.deps.json
+/home/prschorn/Documents/TDD/Calculations/bin/Debug/netcoreapp2.2/Calculations.runtimeconfig.json
+/home/prschorn/Documents/TDD/Calculations/bin/Debug/netcoreapp2.2/Calculations.runtimeconfig.dev.json
+/home/prschorn/Documents/TDD/Calculations/bin/Debug/netcoreapp2.2/Calculations.dll
+/home/prschorn/Documents/TDD/Calculations/bin/Debug/netcoreapp2.2/Calculations.pdb
+/home/prschorn/Documents/TDD/Calculations/obj/Debug/netcoreapp2.2/Calculations.csprojAssemblyReference.cache
+/home/prschorn/Documents/TDD/Calculations/obj/Debug/netcoreapp2.2/Calculations.csproj.CoreCompileInputs.cache
+/home/prschorn/Documents/TDD/Calculations/obj/Debug/netcoreapp2.2/Calculations.AssemblyInfoInputs.cache
+/home/prschorn/Documents/TDD/Calculations/obj/Debug/netcoreapp2.2/Calculations.AssemblyInfo.cs
+/home/prschorn/Documents/TDD/Calculations/obj/Debug/netcoreapp2.2/Calculations.dll
+/home/prschorn/Documents/TDD/Calculations/obj/Debug/netcoreapp2.2/Calculations.pdb

@@ -1,0 +1,17 @@
+/home/prschorn/Documents/TDD/Calculations.Test/bin/Debug/netcoreapp2.2/Calculations.Test.deps.json
+/home/prschorn/Documents/TDD/Calculations.Test/bin/Debug/netcoreapp2.2/Calculations.Test.runtimeconfig.json
+/home/prschorn/Documents/TDD/Calculations.Test/bin/Debug/netcoreapp2.2/Calculations.Test.runtimeconfig.dev.json
+/home/prschorn/Documents/TDD/Calculations.Test/bin/Debug/netcoreapp2.2/Calculations.Test.dll
+/home/prschorn/Documents/TDD/Calculations.Test/bin/Debug/netcoreapp2.2/Calculations.Test.pdb
+/home/prschorn/Documents/TDD/Calculations.Test/bin/Debug/netcoreapp2.2/Calculations.dll
+/home/prschorn/Documents/TDD/Calculations.Test/bin/Debug/netcoreapp2.2/Calculations.pdb
+/home/prschorn/Documents/TDD/Calculations.Test/obj/Debug/netcoreapp2.2/Calculations.Test.csprojAssemblyReference.cache
+/home/prschorn/Documents/TDD/Calculations.Test/obj/Debug/netcoreapp2.2/Calculations.Test.csproj.CoreCompileInputs.cache
+/home/prschorn/Documents/TDD/Calculations.Test/obj/Debug/netcoreapp2.2/Calculations.Test.AssemblyInfoInputs.cache
+/home/prschorn/Documents/TDD/Calculations.Test/obj/Debug/netcoreapp2.2/Calculations.Test.AssemblyInfo.cs
+/home/prschorn/Documents/TDD/Calculations.Test/obj/Debug/netcoreapp2.2/Calculations.Test.csproj.CopyComplete
+/home/prschorn/Documents/TDD/Calculations.Test/obj/Debug/netcoreapp2.2/Calculations.Test.dll
+/home/prschorn/Documents/TDD/Calculations.Test/obj/Debug/netcoreapp2.2/Calculations.Test.pdb
+/home/prschorn/Documents/TDD/Calculations.Test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/prschorn/Documents/TDD/Calculations.Test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/home/prschorn/Documents/TDD/Calculations.Test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll

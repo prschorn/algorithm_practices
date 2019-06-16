@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/prschorn/Documents/TDD/Calculations.Test/Calculations.Test.csproj": {}
+  },
+  "projects": {
+    "/home/prschorn/Documents/TDD/Calculations.Test/Calculations.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/prschorn/Documents/TDD/Calculations.Test/Calculations.Test.csproj",
+        "projectName": "Calculations.Test",
+        "projectPath": "/home/prschorn/Documents/TDD/Calculations.Test/Calculations.Test.csproj",
+        "packagesPath": "/home/prschorn/.nuget/packages/",
+        "outputPath": "/home/prschorn/Documents/TDD/Calculations.Test/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/prschorn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/prschorn/Documents/TDD/Calculations/Calculations.csproj": {
+                "projectPath": "/home/prschorn/Documents/TDD/Calculations/Calculations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.console": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/prschorn/Documents/TDD/Calculations/Calculations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/prschorn/Documents/TDD/Calculations/Calculations.csproj",
+        "projectName": "Calculations",
+        "projectPath": "/home/prschorn/Documents/TDD/Calculations/Calculations.csproj",
+        "packagesPath": "/home/prschorn/.nuget/packages/",
+        "outputPath": "/home/prschorn/Documents/TDD/Calculations/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/prschorn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
